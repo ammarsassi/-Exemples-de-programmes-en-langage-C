@@ -7,7 +7,7 @@ Module traité "Algorithmique et Développement en langage C".
 
 # Description brève de ce travail
 Dans le cadre d'une formation certifiante pour le métier de développeur JEE, j'ai suivi en toute passion 
-le module "Algorithmique et Développement en langage C" assuré par Mme Souha Kacem, et qui a aboutit à ce travail
+le module "Algorithmique et Développement en langage C" et qui a aboutit à ce travail
 qui traite les algorithmes de recherche dans les tableaux, la récursivité en manipulant les chaines de caractéres et le traitement des structures de données en C. 
 
 Vous trouverez dans ce travail les codes source des programmes suivants :
