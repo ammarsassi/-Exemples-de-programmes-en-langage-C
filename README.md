@@ -20,6 +20,6 @@ Vous trouverez dans ce travail les codes source des programmes suivants :
               [Remarque : ce programme traite les structures de donnees e C ("struct")]
 
 # Contact
-* @auteur: Ammar Sassi
+* @Auteur: Ammar Sassi
 * E-mail: sassi.ammar@hotmail.com
 * LinkedIn: https://www.linkedin.com/in/ammar-sassi
