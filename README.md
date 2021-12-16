@@ -17,7 +17,7 @@ Vous trouverez dans ce travail les codes source des programmes suivants :
               l'existance des opposes et/ou des inverses parmis eux.
               [Remarque : ce programme manipule les tableaux et les algorithmes de recherche dans les tableaux]
 * Programme 3 : "Villes" --> un programme qui permet de calculer la distance entre deux villes dans une cité et de trouver leurs coordonnées sur la carte géographique.
-              [Remarque : ce programme traite les structures de donnees e C ("struct")]
+              [Remarque : ce programme traite les structures de donnees en C ("struct")]
 
 # Contact
 * @Auteur: Ammar Sassi
