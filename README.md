@@ -21,5 +21,5 @@ Vous trouverez dans ce travail les codes source des programmes suivants :
 
 # Contact
 * @auteur: Ammar Sassi
-* tE-mail: sassi.ammar@hotmail.com
-* tLinkedIn: https://www.linkedin.com/in/ammar-sassi
+* E-mail: sassi.ammar@hotmail.com
+* LinkedIn: https://www.linkedin.com/in/ammar-sassi
