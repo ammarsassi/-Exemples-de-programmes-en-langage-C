@@ -1,5 +1,5 @@
 # Exemples de programmes en langage C
-Ce présent travail est en réponse au test de fin de la deuxième semaine de ma formation certifiante "JEE Developer" 
+Ce présent travail est réalisé lors de la première semaine de ma formation certifiante "JEE Developer" 
 formation assurée par #CORP (département de l'AHK Tunisie) et financée par #GIZ (Germany). 
 Module traité "Algorithmique et Développement en langage C".
 (date de réalisation 30/08/2021)
